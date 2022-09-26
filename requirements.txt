@@ -4,8 +4,9 @@ javaobj-py3==0.4.1
 pycryptodomex==3.9.7
 python-dateutil==2.8.0
 XlsxWriter==1.2.8
-Jinja2==2.11.2
+Jinja2==2.11.3
 timeout-decorator==0.4.1
 appdirs==1.4.3
 requests==2.23.0
 dataclasses>=0.7;python_version=="3.6"
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
