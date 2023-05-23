@@ -7,5 +7,5 @@ XlsxWriter==1.2.8
 Jinja2==2.11.2
 timeout-decorator==0.4.1
 appdirs==1.4.3
-requests==2.23.0
+requests==2.31.0
 dataclasses>=0.7;python_version=="3.6"
